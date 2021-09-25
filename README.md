@@ -3,7 +3,7 @@
 <hr>
 
 ```python
-# -*- coding: utf-8 -*-
+
 
 
 class Welcome:
