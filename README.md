@@ -19,4 +19,4 @@ class Welcome:
 me = Welcome()
 me.say_hi()
 ```
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankita-nikumbh-725256187/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankita-nikumbh-725256187/) || [Kaggle](https://www.kaggle.com/ankitanikumbh)
